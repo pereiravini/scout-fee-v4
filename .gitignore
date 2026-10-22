@@ -1,0 +1,13 @@
+# Arquivos temporários e de trava do Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+~$*.csv
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pastas temporárias de build/IDE (se houver)
+*.tmp
+*.log
